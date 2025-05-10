@@ -92,7 +92,7 @@ const Hero = () => {
             animate="visible"
             className="mt-4 text-lg text-gray-700 dark:text-gray-300"
           >
-            Aspiring Developer & Passionate Learner
+           Still learning — just a student building my way up
           </motion.p>
 
           {/* Social Icons */}
