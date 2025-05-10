@@ -88,7 +88,7 @@ const About = () => {
                     <motion.img
                       key={tech}
                       whileHover={{ scale: 1.1 }}
-                      src={`/src/assets/${tech}.svg`}
+                      src={`/${tech}.svg`}
                       alt={tech}
                       loading="lazy"
                       className="w-18 h-18"

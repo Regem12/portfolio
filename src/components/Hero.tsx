@@ -66,7 +66,7 @@ const Hero = () => {
           className="group w-40 h-40 md:w-56 md:h-56 rounded-full overflow-hidden bg-neutral-200 dark:bg-neutral-700 shadow-md transition-transform duration-300 hover:scale-105"
         >
           <img
-            src="/src/assets/IMG_7857.jpg"
+            src="/IMG_7857.JPG"
             alt="Profile"
             className="object-cover w-full h-full"
           />
@@ -140,7 +140,7 @@ const Hero = () => {
             className="mt-6"
           >
             <a
-              href="resume4.pdf"
+              href="RegemBacolcol-resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-6 py-3 bg-blue-600 text-white rounded-xl shadow hover:bg-blue-700 transition"
