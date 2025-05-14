@@ -140,7 +140,7 @@ const Hero = () => {
             className="mt-6"
           >
             <a
-              href="RegemBacolcol-resume.pdf"
+              href="Regem-resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-6 py-3 bg-blue-600 text-white rounded-xl shadow hover:bg-blue-700 transition"
